@@ -28,13 +28,5 @@ def getMaximumProfit(Arr, n):
 
 
 
-def main():
-    n = 6
-    Arr = [1,4]
 
-    max_profit = getMaximumProfit(Arr, n)
-    print("The maximum profit that can be generated is", max_profit)
-
-if __name__ == "__main__":
-    main()
-
+    
