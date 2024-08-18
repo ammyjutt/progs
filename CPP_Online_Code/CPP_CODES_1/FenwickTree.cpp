@@ -9,10 +9,6 @@
 //	int n;
 //	vector<int> T;
 //
-//
-//	
-//	
-//
 //	Tree(vector<int>& nums)
 //	{
 //		n = nums.size();
