@@ -22,9 +22,6 @@
 //
 //	Hasher(string& s)
 //	{
-//
-//		
-//
 //		init_h(s);
 //		init_p(s);
 //	}
@@ -38,7 +35,6 @@
 //			for (int i = 1; i < s.length(); i++) {
 //				h[i] = ((h[i - 1] * A)%B      + s[i]) % B;
 //			}
-//
 //		}
 //	}
 //
@@ -77,15 +73,15 @@
 //int main()
 //{
 //
-//	string s = "abdulgulgapangamkhan";
+//	string s = "qlwx";
 //	Hasher h(s);
-//	cout << h.hash_value(19,19) << endl;
+//	cout << h.hash_value(0,3) << endl;
 //	
 //
 //
-//	string sub = "n";
-//	Hasher h2(sub);
-//	cout << h2.hash_value(0,0) << endl;
+//	//string sub = "n";
+//	//Hasher h2(sub);
+//	//cout << h2.hash_value(0,0) << endl;
 //
 //
 //
