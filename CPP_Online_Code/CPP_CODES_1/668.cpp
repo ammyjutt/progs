@@ -1,8 +1,3 @@
-//using namespace std;
-//#include <iostream>
-//#include <vector>
-//#include <algorithm>
-//
 //
 //
 //
@@ -23,7 +18,7 @@
 //                int count = 0;
 //                for (int i = 1; i <= end; i++)
 //                {
-//                    count += min(m,current/i);
+//                    count += min(m, current / i);
 //                }
 //                return count;
 //            };
@@ -42,15 +37,3 @@
 //        return left;
 //    }
 //};
-//
-//
-//
-//int main()
-//{
-//    Solution s;
-//    cout << s.findKthNumber(2,3,6) << endl;
-//	
-//
-//}
-//
-//
