@@ -4,7 +4,7 @@
 //#include <algorithm>
 //#include <sstream>
 //
-//
+//  // TECHNIQUE:
 //int main()
 //{
 //		
