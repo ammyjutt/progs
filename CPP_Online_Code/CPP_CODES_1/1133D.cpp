@@ -5,7 +5,8 @@
 //#include <unordered_map>
 //
 //
-//// TECHNIQUE: HASHER , GCD
+//// TECHNIQUE: HASHER , GCD, FRACTION CLASS
+// // TODO:
 //
 //
 //
