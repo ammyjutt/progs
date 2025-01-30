@@ -57,16 +57,6 @@
 //
 //
 //
-////struct FractionHasher {
-////	size_t operator()(const Fraction& obj) const
-////	{
-////		size_t h1 = hash<long long>{}(obj.num);
-////		size_t h2 = hash<long long>{}(obj.den);
-////		return h1 ^ (h2 << 1);
-////	}
-////
-////};
-//
 //
 ////// BETTER HASHER : 
 //
