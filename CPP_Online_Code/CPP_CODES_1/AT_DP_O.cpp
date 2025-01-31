@@ -38,7 +38,7 @@
 //
 //			dp_next[mask] = 0; 
 //			
-//			for (int pos = 0; pos < 20; pos++)
+//			for (int pos = 0; pos <= 20; pos++)
 //			{
 //				if ((1 << pos) & common)
 //				{

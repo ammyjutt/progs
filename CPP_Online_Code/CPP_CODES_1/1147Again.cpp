@@ -5,6 +5,9 @@
 //
 //#define ll long long
 //
+
+
+
 //class Hasher {
 //public:
 //
@@ -18,10 +21,8 @@
 //    {
 //        N = s.length();
 //
-//        p.resize(N);  // p^C mod M
-//        h.resize(N); // hash[0:i]
-//
-//
+//        p.resize(N);  
+//        h.resize(N); 
 //        p[0] = 1;
 //        h[0] = s[0];
 //        for (int i = 1; i < N; i++)
@@ -31,14 +32,15 @@
 //        }
 //    }
 //
-//
-//    long long get_hash(int a, int b)
+//    ll get_hash(int a, int b)
 //    {
 //        if (a == 0)
 //            return h[b];
 //        return ((h[b] - (h[a - 1] * p[b - a + 1]) % M) + M) % M;
 //    }
 //};
+
+
 //
 //
 //
